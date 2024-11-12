@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\linckedlist and generics\linckedlist and generics\bin\Debug\linckedlist and generics.exe.config
+C:\Users\Administrator\source\repos\linckedlist and generics\linckedlist and generics\bin\Debug\linckedlist and generics.exe
+C:\Users\Administrator\source\repos\linckedlist and generics\linckedlist and generics\bin\Debug\linckedlist and generics.pdb
+C:\Users\Administrator\source\repos\linckedlist and generics\linckedlist and generics\obj\Debug\linckedlist and generics.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\linckedlist and generics\linckedlist and generics\obj\Debug\linckedlist and generics.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\linckedlist and generics\linckedlist and generics\obj\Debug\linckedlist and generics.exe
+C:\Users\Administrator\source\repos\linckedlist and generics\linckedlist and generics\obj\Debug\linckedlist and generics.pdb
